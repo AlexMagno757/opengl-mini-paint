@@ -22,7 +22,7 @@ pip install glfw PyOpenGL numpy Pillow
 ```
 2. Execute o arquivo principal
 ```bash
-python main.py
+python paint.py
 ```
 
 ## Comandos e Ferramentas
